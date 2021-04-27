@@ -1,0 +1,30 @@
+body
+{
+	background-color:aqua;
+	background-image: url('background.jpeg');
+	background-size: cover;
+	background-position: center;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#dew
+{
+	margin-top: 30px;
+}
+#body1
+{
+	background-color: red;
+}
